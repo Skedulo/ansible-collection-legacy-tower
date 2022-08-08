@@ -1,0 +1,50 @@
+namespace: awx
+name: awx
+version: 1.0
+authors:
+  - Wayne Witzel III
+  - Ryan Petrello
+  - Abhijeet Kasurde
+  - Toshio Kuratomi
+  - Pilou
+  - John Westcott IV
+  - Dag Wieers
+  - jainnikhil30
+  - Adrien Fleury
+  - Lee Shakespeare
+  - Alicia Cozine
+  - John R Barker
+  - Andrea Tartaglia
+  - Kevin Clark
+  - Matt Martz
+  - Meecr0b
+  - Pierre Roux
+  - Pierre-Louis Bonicoli
+  - Rick Elrod
+  - Samuel Carpentier
+  - Sean Cavanaugh
+  - Thierry Bouvet
+  - Will Thames
+  - curry9999
+  - jaevans
+  - seag-rvc
+  - Andrew J Huffman
+  - Andrey Klychkov
+  - Bill Nottingham
+  - Brian Coca
+  - Christopher Galtenberg
+  - David Medberry
+  - David Moreau Simard
+  - Dennis Lerch
+  - Hideki Saito
+  - Hugh Ma
+  - James Cassell
+  - James Labocki
+readme: |
+  Legacy collection implementing the equivalent of upstream's awx.awx
+  but using ansible_tower modules from Ansible 2.9
+
+  Authors generated from
+  ```
+  git shortlog -n -s -- lib/ansible/modules/web_infrastructure/ansible_tower
+  ```
