@@ -1,6 +1,6 @@
 namespace: awx
 name: awx
-version: 1.0
+version: 1.0.1
 authors:
   - Wayne Witzel III
   - Ryan Petrello
